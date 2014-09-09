@@ -1,4 +1,4 @@
 shinycamping-octo-shame
 =======================
 
-Collection of shiny apps and codes for shiny apps
+Collection of Shiny apps and codes for Shiny apps
