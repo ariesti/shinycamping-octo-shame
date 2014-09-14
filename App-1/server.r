@@ -1,6 +1,6 @@
 library(shiny)
 
-## Defining the server logoc required to put the text up
+## Defining the server logic required to put the text up
 
 shinyServer(function(input, output) {
         
