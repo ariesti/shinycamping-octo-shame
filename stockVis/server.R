@@ -3,6 +3,7 @@
 library(quantmod)
 source("helpers.R")
 
+
 shinyServer(function(input, output) {
         
         dataInput <- reactive({  
