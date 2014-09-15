@@ -11,4 +11,10 @@ Being able to work with R and RStudio and having some knowledge in HTML, CSS, an
 
 **Visual Reference**
 
-There is a [Pinterest](https://www.pinterest.com/ariesri1973/data-scientist-tools/) board that contained some visualization of these tools and links to where to find them on the web. 
+There is a [Pinterest](https://www.pinterest.com/ariesri1973/data-scientist-tools/) board containing some visualization of these tools and links to where to find them on the web. 
+
+**Deployed Apps**
+
+- [@App-1](https://ariesti.shinyapps.io/App-1)
+- [@census-app](https://ariesti.shinyapps.io/census-app/)
+- [@stockVis](https://ariesti.shinyapps.io/stockVis/)
